@@ -11,7 +11,7 @@ Features
 2. Game screen with birds and pigs
 3. Score calculation
 4. Stars rating
-  
+
 Technologies
 ------------
 
