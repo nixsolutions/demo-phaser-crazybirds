@@ -1,0 +1,44 @@
+{"frames": {
+
+"pig_explosion_01.png":
+{
+	"frame": {"x":133,"y":2,"w":89,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":21,"y":22,"w":89,"h":79},
+	"sourceSize": {"w":130,"h":122}
+},
+"pig_explosion_02.png":
+{
+	"frame": {"x":132,"y":125,"w":127,"h":117},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":2,"w":127,"h":117},
+	"sourceSize": {"w":130,"h":122}
+},
+"pig_explosion_03.png":
+{
+	"frame": {"x":2,"y":125,"w":128,"h":120},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":128,"h":120},
+	"sourceSize": {"w":130,"h":122}
+},
+"pig_explosion_04.png":
+{
+	"frame": {"x":2,"y":2,"w":129,"h":121},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":1,"w":129,"h":121},
+	"sourceSize": {"w":130,"h":122}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "bang.png",
+	"format": "RGBA8888",
+	"size": {"w":261,"h":261},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:c348f99c98e8996cf79860f5ecb37e74:b8c8be08585f152e082b235090cd609c:72cd3f8cc0d7110d9956cfaccd615314$"
+}
+}
