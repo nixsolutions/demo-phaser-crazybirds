@@ -22,5 +22,6 @@ Technologies
 * [Box2D](http://box2d.org/)
 * [Texture packer](https://www.codeandweb.com/texturepacker)
 * Web Audio
+* Javascript
 * Bitmap Font
 * SpriteSheets
